@@ -425,11 +425,11 @@ body {
 #app-cover {
   position: absolute;
   top: 82%;
-  right: -1370px;
+  right: 1370px;
   left: 0;
   width: 430px;
   height: 100px;
-  margin: -4px auto;
+  margin: -4px 0px;
 }
 
 
@@ -454,7 +454,7 @@ body {
 }
 
 #player-track.active {
-  top: -92px;
+  top: -91px;
 }
 
 #album-name {
